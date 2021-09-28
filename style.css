@@ -10,7 +10,7 @@
     width: 18rem;
     display: flex;
     justify-content: center;
-
+    
     
 }
 .background{
@@ -43,15 +43,11 @@ footer{
 }
 #id{
     width: 17rem;
-    border: black solid 2px;
+    
     margin:.5rem;
     height: 10rem;
     box-sizing: border-box; 
     margin-top: .5rem;
-
-
-    
-    
 }
 #name{
     height: 3.17rem;
