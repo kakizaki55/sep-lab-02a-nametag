@@ -2,13 +2,21 @@
 *{
     padding:0;
     margin:0;
+}
+#id-container{
+    background-color: lightgrey;
+    box-sizing: border-box;
+    height: 11rem;
+    width: 18rem;
+    display: flex;
+    justify-content: center;
 
+    
 }
 .background{
     background-color: red;
+    border-radius: 20px;
 }
-
-
 h1{
     color: white;
     text-align: center;
@@ -21,6 +29,7 @@ h2{
     color: white;
     text-align: center;
     font-family: 'Poppins', sans-serif;
+    font-weight: 100;
 }
 h1, h2{
     margin:0;
@@ -38,6 +47,7 @@ footer{
     margin:.5rem;
     height: 10rem;
     box-sizing: border-box; 
+    margin-top: .5rem;
 
 
     
@@ -48,5 +58,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: 'Birthstone', cursive;
+    background-color: white;
 
 }
